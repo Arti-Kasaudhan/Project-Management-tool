@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Project Pilot",
+  "description": "A collaborative project management tool inspired by Trello and Asana, supercharged with AI features from the Gemini API. Users can create projects, manage tasks in a Kanban board, and use AI to generate sub-tasks.",
+  "requestFramePermissions": []
+}
